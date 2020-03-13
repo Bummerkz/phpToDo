@@ -1,0 +1,48 @@
+﻿#content-table{
+    border:1px solid darkgrey;
+    border-radius:3px;
+    padding:5px;
+    height: 237px;
+}
+
+/* Table */
+#tasks {
+    border:3px solid lavender;
+    border-radius:3px;
+}
+
+/* Table header */
+.tr_header{
+    background-color:gray;
+}
+.tr_header th{
+    color:white;
+    padding:10px 0px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.td{
+    text-align: center;
+}
+
+#tasks tr-adminrev{
+    background-color: yellow;
+    color:black;
+}
+
+/* */
+#div_pagination{
+    width:100%;
+    margin-top:5px;
+    text-align:center;
+}
+
+.button{
+    border-radius:3px;
+    border:0px;
+    background-color:mediumpurple;
+    color:white;
+    padding:10px 20px;
+    letter-spacing: 1px;
+}
